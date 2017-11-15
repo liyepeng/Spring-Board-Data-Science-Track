@@ -1,0 +1,256 @@
+state,county,Rate
+AK,Aleutians East Borough,3.2
+AK,Aleutians West Census Area,3.8
+AK,Anchorage Borough,5
+AK,Bethel Census Area,14.2
+AK,Bristol Bay Borough,9.2
+AK,Denali Borough,8.6
+AK,Dillingham Census Area,9.6
+AK,Fairbanks North Star Borough,5.4
+AK,Haines Borough,9.7
+AK,Hoonah-Angoon Census Area,15
+AK,Juneau Borough,4.7
+AK,Kenai Peninsula Borough,7.8
+AK,Ketchikan Gateway Borough,6.8
+AK,Kodiak Island Borough,4.8
+AK,Lake and Peninsula Borough,12.4
+AK,Matanuska-Susitna Borough,7.6
+AK,Nome Census Area,11.8
+AK,North Slope Borough,5.7
+AK,Northwest Arctic Borough,15.9
+AK,Petersburg Census Area,8.8
+AK,Prince of Wales-Hyder Census Area,12.4
+AK,Sitka Borough,4.6
+AK,Skagway Municipality,11.4
+AK,Southeast Fairbanks Census Area,10.5
+AK,Valdez-Cordova Census Area,8.6
+AK,Wade Hampton Census Area,22.9
+AK,Wrangell Borough/city,7.8
+AK,Yakutat Borough,8.5
+AK,Yukon-Koyukuk Census Area,1
+FL,Alachua County,4.6
+FL,Baker County,5.5
+FL,Bay County,5.4
+FL,Bradford County,4.8
+FL,Brevard County,5.9
+FL,Broward County,5.1
+FL,Calhoun County,6.1
+FL,Charlotte County,5.9
+FL,Citrus County,7.4
+FL,Clay County,5
+FL,Collier County,5.2
+FL,Columbia County,5.4
+FL,Desoto County,5.8
+FL,Dixie County,6.2
+FL,Duval County,5.8
+FL,Escambia County,5.5
+FL,Flagler County,6.2
+FL,Franklin County,4.7
+FL,Gadsden County,7.1
+FL,Gilchrist County,5.6
+FL,Glades County,7.1
+FL,Gulf County,5.2
+FL,Hamilton County,6.4
+FL,Hardee County,6.9
+FL,Hendry County,10.5
+FL,Hernando County,6.9
+FL,Highlands County,7.4
+FL,Hillsborough County,5
+FL,Holmes County,6.1
+FL,Indian River County,6.8
+FL,Jackson County,5.8
+FL,Jefferson County,5.9
+FL,Lafayette County,4.5
+FL,Lake County,5.5
+FL,Lee County,5.1
+FL,Leon County,5
+FL,Levy County,5.7
+FL,Liberty County,5.8
+FL,Madison County,6.1
+FL,Manatee County,5
+FL,Marion County,6.4
+FL,Martin County,5.3
+FL,Miami-Dade County,5.9
+FL,Monroe County,3.5
+FL,Nassau County,5.1
+FL,Okaloosa County,4.5
+FL,Okeechobee County,6.2
+FL,Orange County,5
+FL,Osceola County,5.7
+FL,Palm Beach County,5.1
+FL,Pasco County,5.8
+FL,Pinellas County,4.9
+FL,Polk County,6.3
+FL,Putnam County,7.6
+FL,Saint Johns County,3.9
+FL,Saint Lucie County,6.3
+FL,Santa Rosa County,4.8
+FL,Sarasota County,5
+FL,Seminole County,4.9
+FL,Sumter County,7.6
+FL,Suwannee County,5.4
+FL,Taylor County,6.6
+FL,Union County,4.8
+FL,Volusia County,5.8
+FL,Wakulla County,4.6
+FL,Walton County,4.7
+FL,Washington County,5.9
+GA,Appling County,7.3
+GA,Atkinson County,5.7
+GA,Bacon County,5.7
+GA,Baker County,7.2
+GA,Baldwin County,7.6
+GA,Banks County,5.6
+GA,Barrow County,5.3
+GA,Bartow County,5.9
+GA,Ben Hill County,9
+GA,Berrien County,7.2
+GA,Bibb County,6.6
+GA,Bleckley County,8.5
+GA,Brantley County,7.4
+GA,Brooks County,6
+GA,Bryan County,5.2
+GA,Bulloch County,6
+GA,Burke County,8.1
+GA,Butts County,6.6
+GA,Calhoun County,6.2
+GA,Camden County,5.5
+GA,Candler County,5.7
+GA,Carroll County,6.7
+GA,Catoosa County,5.2
+GA,Charlton County,6.4
+GA,Chatham County,5.8
+GA,Chattahoochee County,8.8
+GA,Chattooga County,6.2
+GA,Cherokee County,4.7
+GA,Clarke County,6.1
+GA,Clay County,11.8
+GA,Clayton County,7.6
+GA,Clinch County,7
+GA,Cobb County,5.1
+GA,Coffee County,6.7
+GA,Colquitt County,6.4
+GA,Columbia County,5
+GA,Cook County,6.7
+GA,Coweta County,5.3
+GA,Crawford County,6.3
+GA,Crisp County,6.8
+GA,Dade County,5.5
+GA,Dawson County,5.1
+GA,Decatur County,6.8
+GA,Dekalb County,6
+GA,Dodge County,8.4
+GA,Dooly County,7.5
+GA,Dougherty County,7.7
+GA,Douglas County,6.3
+GA,Early County,6.9
+GA,Echols County,4.7
+GA,Effingham County,5.1
+GA,Elbert County,7.4
+GA,Emanuel County,8.7
+GA,Evans County,5.6
+GA,Fannin County,6.2
+GA,Fayette County,5.2
+GA,Floyd County,6.7
+GA,Forsyth County,4.5
+GA,Franklin County,6.3
+GA,Fulton County,6
+GA,Gilmer County,6
+GA,Glascock County,6.7
+GA,Glynn County,6.1
+GA,Gordon County,5.9
+GA,Grady County,6
+GA,Greene County,6.6
+GA,Gwinnett County,5.2
+GA,Habersham County,5.7
+GA,Hall County,4.9
+GA,Hancock County,9.8
+GA,Haralson County,6.5
+GA,Harris County,5.2
+GA,Hart County,6.2
+GA,Heard County,6.4
+GA,Henry County,6.2
+GA,Houston County,5.8
+GA,Irwin County,8.4
+GA,Jackson County,4.8
+GA,Jasper County,5.5
+GA,Jeff Davis County,6.7
+GA,Jefferson County,9
+GA,Jenkins County,8.3
+GA,Johnson County,7
+GA,Jones County,5.5
+GA,Lamar County,7.7
+GA,Lanier County,6.7
+GA,Laurens County,7.5
+GA,Lee County,5.3
+GA,Liberty County,6.3
+GA,Lincoln County,6.7
+GA,Long County,5.9
+GA,Lowndes County,5.9
+GA,Lumpkin County,5.4
+GA,Macon County,9.2
+GA,Madison County,5.5
+GA,Marion County,8.4
+GA,McDuffie County,8.3
+GA,McIntosh County,6.5
+GA,Meriwether County,8
+GA,Miller County,5.4
+GA,Mitchell County,6.7
+GA,Monroe County,5.8
+GA,Montgomery County,8.7
+GA,Morgan County,5.5
+GA,Murray County,7.4
+GA,Muscogee County,7.4
+GA,Newton County,6.7
+GA,Oconee County,4.4
+GA,Oglethorpe County,5.5
+GA,Paulding County,5.2
+GA,Peach County,7.9
+GA,Pickens County,5.3
+GA,Pierce County,6.2
+GA,Pike County,5.7
+GA,Polk County,6.6
+GA,Pulaski County,6.6
+GA,Putnam County,8.1
+GA,Quitman County,6.9
+GA,Rabun County,6.7
+GA,Randolph County,9.1
+GA,Richmond County,7.4
+GA,Rockdale County,6.5
+GA,Schley County,6.6
+GA,Screven County,8.3
+GA,Seminole County,8.1
+GA,Spalding County,8
+GA,Stephens County,6.5
+GA,Stewart County,6.9
+GA,Sumter County,8.3
+GA,Talbot County,7.7
+GA,Taliaferro County,7.8
+GA,Tattnall County,6.2
+GA,Taylor County,9.2
+GA,Telfair County,8.7
+GA,Terrell County,7.4
+GA,Thomas County,7.2
+GA,Tift County,6.1
+GA,Toombs County,8.7
+GA,Towns County,7.9
+GA,Treutlen County,8.5
+GA,Troup County,6.1
+GA,Turner County,6.8
+GA,Twiggs County,9.1
+GA,Union County,5.3
+GA,Upson County,7.2
+GA,Walker County,6
+GA,Walton County,5.4
+GA,Ware County,6.5
+GA,Warren County,7.8
+GA,Washington County,7
+GA,Wayne County,7.2
+GA,Webster County,9.4
+GA,Wheeler County,10.9
+GA,White County,5.2
+GA,Whitfield County,6.4
+GA,Wilcox County,7.8
+GA,Wilkes County,7.2
+GA,Wilkinson County,7.3
+GA,Worth County,6.5
